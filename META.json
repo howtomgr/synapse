@@ -1,0 +1,66 @@
+{
+  "category": "matrix-servers",
+  "created_date": "2025-09-15T22:48:59.228234",
+  "default_ports": [
+    80,
+    443,
+    2048,
+    8008
+  ],
+  "dependencies": [
+    "python3",
+    "postgresql"
+  ],
+  "description": "Synapse is a free and open-source Matrix Server. Matrix homeserver written in Python",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/matrix-servers/synapse",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/matrix-servers/synapse",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.228260",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "synapse",
+  "repository_url": "https://github.com/howtomgr/synapse",
+  "spec_version": "2.0",
+  "subcategory": "matrix-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "matrix-servers",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "Synapse Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/matrix-servers/synapse"
+}
